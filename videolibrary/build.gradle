@@ -7,6 +7,7 @@ android {
     buildToolsVersion "31.0.0"
 
     defaultConfig {
+        namespace 'com.jeffmony.videolibrary'
         minSdkVersion 19
         targetSdkVersion 31
         versionCode 1
